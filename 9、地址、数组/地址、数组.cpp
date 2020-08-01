@@ -8,7 +8,7 @@ int main()
 	*p=pp;
 //	int	buf[100]={0};
 	
-	printf("%d\r\n",p);
+	printf("%d\r\n",*p);
 /*	
 	for(i=0;i<100;i++)
 	{
